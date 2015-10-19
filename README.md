@@ -1,2 +1,2 @@
 # zealous-hockeypuck
-Transform random into sentences
+Transform random text into sentences
